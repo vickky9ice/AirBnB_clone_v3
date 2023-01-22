@@ -158,6 +158,8 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 Adeboye Victor - [Gmail - adeboyevictor18@gmail.com]
 
+Adeboye Victor - [adeboyevictor18@gmail.com]
+
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
